@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [tbh](tbh)
+- 👨‍💻 All of my projects are available at https://rovic.vercel.app/
 
 - 💬 Ask me about **Javascript**
 
