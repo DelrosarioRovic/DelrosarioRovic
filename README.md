@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/861202219927470111/1093036477358809228/coding-freak.gif?width=1000&height=413)](https://rishavchanda.io)
+[![MasterHead](https://media.discordapp.net/attachments/861202219927470111/1093036477358809228/coding-freak.gif?width=1000&height=600)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rovic</h1>
 <h3 align="center">I like programming</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
