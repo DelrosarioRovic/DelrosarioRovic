@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Graphiscore](https://graphiscore-rate.cyclic.app/)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React & Typescript**
 
 - 👨‍💻 All of my projects are available at https://rovic.vercel.app/
 
