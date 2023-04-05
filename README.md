@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **rovicdelrosario01@gmail.com**
 
-- 📄 Know about my experiences [tbh](tbh)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
