@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://media.discordapp.net/attachments/861202219927470111/1093036477358809228/coding-freak.gif" alt="Header" width="783" height="413">
+    <img src="https://media.discordapp.net/attachments/861202219927470111/1093038246507859988/coding-freak.gif" alt="Header" width="783" height="413">
   </a>
 </div>
 
