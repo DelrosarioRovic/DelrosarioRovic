@@ -4,23 +4,6 @@
   </a>
 </div>
 
-<script>
-  // Get the header image element
-  var headerImg = document.getElementById("header-img");
-  
-  // Add a resize event listener to the window
-  window.addEventListener("resize", function() {
-    // If the screen width is less than 650px, change the image source
-    if (window.innerWidth < 650) {
-      headerImg.src = "https://media.discordapp.net/attachments/861202219927470111/1094939783488340038/coding-freak-mobile.gif";
-    }
-    // If the screen width is greater than or equal to 650px, change the image source back to the original
-    else {
-      headerImg.src = "https://media.discordapp.net/attachments/861202219927470111/1093046691264999496/coding-freak.gif?width=1020&height=340";
-    }
-  });
-</script>
-
 
 <h1 align="center">Hi 👋, I'm Rovic</h1>
 <h3 align="center">I like programming</h3>
