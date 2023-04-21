@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Rovic</h1>
 <h3 align="center">I like programming</h3>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
 - 🔭 I’m currently working on [Graphiscore](https://graphiscore-rate.cyclic.app/)
