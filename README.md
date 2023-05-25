@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
-- 🔭 I’m currently working on [Graphiscore](https://graphiscore-rate.cyclic.app/)
+- 🔭 I'm currently working on a personal project called Blogify.
 
 - 🌱 I’m currently learning **React & Typescript**
 
