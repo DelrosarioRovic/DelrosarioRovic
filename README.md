@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on a personal project called Blogify.
 
-- 🌱 I’m currently learning **React & Typescript**
+- 🌱 I’m currently learning ** PHP **
 
 - 👨‍💻 All of my projects are available at https://rovic.vercel.app/
 
