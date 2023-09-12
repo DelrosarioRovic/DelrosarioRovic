@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on a personal project called Blogify.
 
-- 🌱 I’m currently learning ** PHP **
+- 🌱 I’m currently learning ** SHOPIFY **
 
 - 👨‍💻 All of my projects are available at https://rovic.vercel.app/
 
