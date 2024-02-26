@@ -13,9 +13,9 @@
 <img align="right" alt="Coding" width="400"
   src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
-- 🔭 I'm currently working on a personal project called Blogify.
+- 🔭 I'm currently working at Arhika.ph
 
-- 🌱 I’m currently learning ** SHOPIFY **
+- 🌱 I’m currently learning ** React-native / Next.js / Redux / TypeScript **
 
 - 👨‍💻 All of my projects are available at https://rovic.vercel.app/
 
