@@ -15,7 +15,7 @@
 
 - 🔭 I'm currently working at Outsourze
 
-- 🌱 I’m currently learning ** React-native / Next.js / Redux / TypeScript **
+- 🌱 I’m currently learning ** React-native / Typescript / Express / NodeJs / Postgre **
 
 - 👨‍💻 All of my projects are available at https://rovic.vercel.app/
 
