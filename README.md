@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400"
   src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif">
 
-- 🔭 I'm currently working at Arhika.ph
+- 🔭 I'm currently working at Outsourze
 
 - 🌱 I’m currently learning ** React-native / Next.js / Redux / TypeScript **
 
